@@ -18,9 +18,13 @@ How to use it :
   1/ Be sure to have an IDE that can run .py file (spyder,pyCharm,... for example)
 
   2/ Launch your IDE application, then choose 'Open file' option
+  
+  3/ Make sure to have the followed modules downloaded : 'ttkwidgets' (if not execute the command below)
 
   3/ From the previously unzipped folder, run the Bezier_vX file, where X is the version of the program
 
+
+(* pip install ttkwidgets)
 
 You are free to use this program as you whant
 
