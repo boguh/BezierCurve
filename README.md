@@ -19,12 +19,13 @@ How to use it :
 
   2/ Launch your IDE application, then choose 'Open file' option
   
-  3/ Make sure to have the followed modules downloaded : 'ttkwidgets' (if not execute the command below)
+  3/ Make sure to have the followed modules downloaded : 'ttkwidgets' and 'ghostscript' (if not execute the commands below)
 
   3/ From the previously unzipped folder, run the Bezier_vX file, where X is the version of the program
 
 
 (* pip install ttkwidgets)
+(* pip install ghostscript)
 
 You are free to use this program as you whant
 
